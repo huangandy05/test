@@ -1,4 +1,3 @@
-theme: minima
 # test
 test
 
