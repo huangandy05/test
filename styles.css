@@ -1,0 +1,14 @@
+.title {
+  text-align: center;
+}
+
+.notes-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.notes-table th,
+.notes-table td {
+  padding: 8px;
+  border: 1px solid black;
+}
