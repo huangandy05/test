@@ -15,7 +15,7 @@
     <tr>
       <td>1</td>
       <td>Code in markdown File</td>
-      <td><a href="page1.md">Week 1 Link</a></td>
+      <td><a href="page1.html">Week 1 Link</a></td>
     </tr>
     <tr>
       <td>2</td>
